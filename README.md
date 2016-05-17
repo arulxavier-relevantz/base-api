@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-git clone <clone URL>
+git clone https://github.com/frontians-web/base-api.git
 cd base-api
 npm publish
 ```
