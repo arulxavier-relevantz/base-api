@@ -1,10 +1,25 @@
 # base-api
-> Micro Service Base API
+> Base API for Micro Service
 
 ## Installation
+> Clone and Install the dependencies
 
 ```bash
-git clone https://github.com/frontians-web/base-api.git
+git clone <Git URL>
 cd base-api
+npm install
+```
+
+## Build
+> build the base api package
+
+```bash
+gulp
+```
+
+## Publish to npm private server
+> publish in to npm private server
+
+```bash
 npm publish
 ```
