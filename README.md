@@ -11,7 +11,7 @@ npm install
 ```
 
 ## Build
-> build the base api package
+> build the base api package, type the following command.
 
 ```bash
 gulp
