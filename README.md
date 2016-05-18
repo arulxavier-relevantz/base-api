@@ -11,14 +11,14 @@ npm install
 ```
 
 ## Build
-> build the base api package, type the following command.
+> Type the following command, to build the base api package.
 
 ```bash
 gulp
 ```
 
-## Publish to npm private server
-> publish in to npm private server
+## Publish
+> Publish in to npm private server
 
 ```bash
 npm publish
